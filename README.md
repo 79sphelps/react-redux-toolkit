@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-# Adapted from MERN Tutorial:
+# Adaptation Source:
 https://bezkoder.com/react-crud-web-api/
 https://bezkoder.com/react-hooks-crud-axios-api/
 
