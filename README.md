@@ -1,9 +1,5 @@
 # Getting Started with Create React App
 
-# Adaptation Source:
-https://bezkoder.com/react-crud-web-api/
-https://bezkoder.com/react-hooks-crud-axios-api/
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
